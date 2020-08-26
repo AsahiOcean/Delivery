@@ -1,4 +1,1 @@
-# Delivery
-Приложение доставки еды | Application Delivery Food
-
-![alt](https://github.com/AsahiOcean/Delivery/blob/master/example.gif)
+![](https://media.giphy.com/media/RJDW0XcfsSxxehE0fR/source.gif)
